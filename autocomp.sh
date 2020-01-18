@@ -1,5 +1,4 @@
 #! /bin/bash
-#TODO everything except java&c
 
 javac $(find . -name "*.java")
 #this^ compiles the java code you dont need variables to hold the names
